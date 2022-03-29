@@ -1,0 +1,22 @@
+body {
+    color:saddlebrown;
+    background-color: burlywood;
+    text-align: left;
+    font-family: 'Verdana', 'Arial', sans-serif;
+    width: 50%;
+    margin: auto;
+}
+
+ol, ul {
+    text-align: left;
+    list-style: inside;
+    font-size: 25px;
+}
+
+.tag {
+    font-size: 50px;
+}
+
+p {
+    font-size: 25px;
+}
